@@ -1,4 +1,4 @@
-# Cordova Geofence Plugin
+# Cordova Geofence Plugin - Cordova 11 SDK32 compatible
 
 [![Code Climate](https://codeclimate.com/github/cowbell/cordova-plugin-geofence/badges/gpa.svg)](https://codeclimate.com/github/cowbell/cordova-plugin-geofence)
 [![version](https://badge.fury.io/js/cordova-plugin-geofence.png)](https://badge.fury.io/js/cordova-plugin-geofence)
